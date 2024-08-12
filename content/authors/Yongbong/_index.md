@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Injong Han
+title: Youngbong
 
 # Full Name (for SEO)
 first_name: Youngbong
