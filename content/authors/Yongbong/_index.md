@@ -42,7 +42,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:haninjong@gmail.com'
+    link: 'mailto:kimsohong1@gmail.com'
   - icon: github
     icon_pack: fab
     link: https://github.com/stevehan39
@@ -53,7 +53,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'haninjong@gmail.com'
+email: 'kimsohong1@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
